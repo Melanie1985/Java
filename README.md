@@ -61,3 +61,17 @@
               #bubble sort algorithm
 - CHALLENGES FACED - I found this challenge a little easier as I has done 2 others using these sort algorithms before. 
 - HOW I OVERCAME THIS CHALLENGE - I just basically took the type of algorithm I thought would work best with this brief and decided on the bubble sort.
+
+- Project No. 6 - Multi dimensional arrays
+- BRIEF - Create a function that takes in the following arrays and outputs: The value at row x and at index x is n. Array 1 = 5, 10, 15 Array 2 = 8, 10, 12 Array 3 = 1, 2, 3
+- USING JAVA/INTELLIJ IN VISUAL STUDIO CODE
+- SUDO CODE - #create a class called Array
+              #create main function 
+              #create function for arrayOne
+              #declare my arrays and variables
+              #list of arrays
+              #for loop to determine values at different rows and indexes.
+- CHALLENGES FACED - This exercise was pretty fun to do as we had worked with arrays before but not in a multi dimensional way.
+- HOW I OVERCAME THIS CHALLENGE - As I was becoming a bit more confident using Java, I found this particular exercise quite simple and fun to do.
+
+
