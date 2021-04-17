@@ -25,3 +25,27 @@
 - CHALLENGES FACED - Again as I was still fairly new to this language it was an adjustment to find the correct ways to write this piece of code.
 - HOW I OVERCAME THIS CHALLENGE - I did lots of reading and finally figured out what I needed to make the switch statements work as a calculator.
 
+- Project No. 3 - Selection Sort
+- BRIEF - You’ve got an array below called Revenue – use the selection sort algorithm to print to the console the largest value. Revenue: 150.00, 200.00, 154.98, 335.01, 475.12, 555.87, 216.38 Output is “The largest value is £n”
+- USING JAVA/INTELLIJ IN VISUAL STUDIO CODE
+- SUDO CODE - #create a class called SelectionSort
+              #create main function 
+              #declare array with double data type
+              #call selection sort routine
+              #print sorted array
+              #selection sort algorithm
+- CHALLENGES FACED - Getting to grips with this new algorithm took a while but our tutor took us though it a few times and it started to make some sense.
+- HOW I OVERCAME THIS CHALLENGE - I practiced using this algorithm a few times with different arrays. 
+
+- Project No. 4 - Bubble Sort
+- BRIEF - You’ve got an array below called Revenue – use the selection sort algorithm to print to the console the largest value. Revenue: 150.00, 200.00, 154.98, 335.01, 475.12, 555.87, 216.38 Output is “The largest value is £n”
+- USING JAVA/INTELLIJ IN VISUAL STUDIO CODE
+- SUDO CODE - #create a class called SelectionSort
+              #create main function 
+              #declare array with double data type
+              #call selection sort routine
+              #print sorted array
+              #selection sort algorithm
+- CHALLENGES FACED - Getting to grips with this new algorithm took a while but our tutor took us though it a few times and it started to make some sense.
+- HOW I OVERCAME THIS CHALLENGE - I practiced using this algorithm a few times with different arrays. 
+
