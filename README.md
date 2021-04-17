@@ -47,6 +47,17 @@
               #create a scanner class object to read inputs
               #use for loop to determine how many counts of user input there is in the array
               #sorting array elements using bubble sort
-- CHALLENGES FACED - I struggled with this function as I could not work out how to get the for statement to fins how many times a certian number appeared in my list.
+- CHALLENGES FACED - I struggled with this function as I could not work out how to get the for statement to fins how many times a certain number appeared in my list.
 - HOW I OVERCAME THIS CHALLENGE - Once again the answer was in where I placed my count, after a few different tries I cracked it.
 
+- Project No. 5 - Agency List
+- BRIEF - You’re working at a agency and the marketing department has asked you to take a look at the ages of their customers. They give you data of the ages, but you need to sort it as they want to focus on people aged between 30-40. Create a function that takes in the below array and sorts the data. Ages = 17, 21, 97, 66, 55, 30, 33, 45, 58, 67, 38, 39, 41, 19, 23
+- USING JAVA/INTELLIJ IN VISUAL STUDIO CODE
+- SUDO CODE - #create a class called AgencyList
+              #create main function 
+              #declare array with integer data type
+              #call selection sort routine
+              #print out sorted list using enhanced for loop    
+              #bubble sort algorithm
+- CHALLENGES FACED - I found this challenge a little easier as I has done 2 others using these sort algorithms before. 
+- HOW I OVERCAME THIS CHALLENGE - I just basically took the type of algorithm I thought would work best with this brief and decided on the bubble sort.
