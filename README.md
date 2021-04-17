@@ -38,14 +38,15 @@
 - HOW I OVERCAME THIS CHALLENGE - I practiced using this algorithm a few times with different arrays. 
 
 - Project No. 4 - Bubble Sort
-- BRIEF - You’ve got an array below called Revenue – use the selection sort algorithm to print to the console the largest value. Revenue: 150.00, 200.00, 154.98, 335.01, 475.12, 555.87, 216.38 Output is “The largest value is £n”
+- BRIEF - Using the list below sort the numbers using Bubble Sort, then ask a user for an input if the input is within the list then the output to the terminal will be: Output is: “we found x counts of n”. It will then print the sorted list. Numbers = 34, 2, 10, 6, 7, 5, 1, 5
 - USING JAVA/INTELLIJ IN VISUAL STUDIO CODE
-- SUDO CODE - #create a class called SelectionSort
+- SUDO CODE - #create a class called BubbleSort1
+              #bubble sort algorithm
               #create main function 
-              #declare array with double data type
-              #call selection sort routine
-              #print sorted array
-              #selection sort algorithm
+              #declare variables
+              #create a scanner class object to read inputs
+              #use for loop to determine how many counts of user input there is in the array
+              #sorting array elements using bubble sort
 - CHALLENGES FACED - Getting to grips with this new algorithm took a while but our tutor took us though it a few times and it started to make some sense.
 - HOW I OVERCAME THIS CHALLENGE - I practiced using this algorithm a few times with different arrays. 
 
