@@ -47,6 +47,6 @@
               #create a scanner class object to read inputs
               #use for loop to determine how many counts of user input there is in the array
               #sorting array elements using bubble sort
-- CHALLENGES FACED - Getting to grips with this new algorithm took a while but our tutor took us though it a few times and it started to make some sense.
-- HOW I OVERCAME THIS CHALLENGE - I practiced using this algorithm a few times with different arrays. 
+- CHALLENGES FACED - I struggled with this function as I could not work out how to get the for statement to fins how many times a certian number appeared in my list.
+- HOW I OVERCAME THIS CHALLENGE - Once again the answer was in where I placed my count, after a few different tries I cracked it.
 
