@@ -74,4 +74,9 @@
 - CHALLENGES FACED - This exercise was pretty fun to do as we had worked with arrays before but not in a multi dimensional way.
 - HOW I OVERCAME THIS CHALLENGE - As I was becoming a bit more confident using Java, I found this particular exercise quite simple and fun to do.
 
-
+- Project No. 7 - Password MD5
+- BRIEF - Create a hashed password using the MD5 algorithm
+- USING JAVA/INTELLIJ IN VISUAL STUDIO CODE
+- SUDO CODE - See project for sudo code
+- CHALLENGES FACED - Wow, this challenge really got me. I found myself pouring over this one for hours as I could not figure out how to call my functions in the correct way.
+- HOW I OVERCAME THIS CHALLENGE - I went over the work I had done with my tutor and she helped me to see a way to overcome this. It still took a bit of working out how to do once I had spoken to her as it was something I had never done before but I got there in the end.
